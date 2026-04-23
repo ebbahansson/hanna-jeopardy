@@ -19,10 +19,10 @@ const gameData = {
     {
             name: "BRÖLLOPSTAJM",
             questions: [
-                { value: 100, question: "Hur många dagar är det kvar till bröllopet?", answer: "Svar här", image: "./Bilder/Hanna/Frågor/bröllopspardom.png" },
-                { value: 200, question: "UTMANING: Brainstorma den perfekta bröllopshashtaggen!", answer: "Svar här", image: "./Bilder/Hanna/Frågor/hashtag3.png" },
-                { value: 300, question: "Hanna och Per ska gifta sig på Stora Holm Säteri. Men vad är ett säteri egentligen?", answer: "Svar här", image: "./Bilder/Hanna/Frågor/storaholm.png" },
-                { value: 400, question: "När man gifter sig ska man ha nått av varje - i vilka kategorier? ", answer: "Svar här", image: null },
+                { value: 100, question: "Hur många dagar är det kvar till bröllopet?", answer: "70 dagar kvar!", image: "./Bilder/Hanna/Frågor/bröllopspardom.png" },
+                { value: 200, question: "UTMANING: Brainstorma den perfekta bröllopshashtaggen!", answer: "#Bröllop2026??", image: "./Bilder/Hanna/Frågor/hashtag3.png" },
+                { value: 300, question: "Hanna och Per ska gifta sig på Stora Holm Säteri. Men vad är ett säteri egentligen?", answer: "En större herrgård. Historiskt sett ägdes och beboddes den av en adelsman", image: "./Bilder/Hanna/Frågor/storaholm.png" },
+                { value: 400, question: "När man gifter sig ska man ha nått av varje - i vilka kategorier? ", answer: "Något nytt, något gammalt, något lånat, något blått", image: null },
                 { value: 500, question: "tbh", answer: "Svar här", image: null }
             ]
         },
