@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeopardy - Hannas Möhippa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Splash Screen / Försida -->
+    <div class="splash-screen" id="splashScreen">
+        <div class="splash-content">
+            <div class="splash-text">
+                <h1 class="splash-title">All you need is LÖVE(D)</h1>
+                <p class="splash-subtitle">Jeopardy</p>
+            </div>
+            <div class="splash-image-container">
+                <div class="image-frame">
+                    <img src="./Bilder/Hanna/Hanna_framsida_3.png" alt="Hanna">
+                </div>
+            </div>
+        </div>
+        <button class="start-btn" onclick="startGame()">Starta</button>
+    </div>
+
+    <!-- Huvudspel -->
+    <div class="game-container" id="gameContainer" style="display: none;">
+        <div class="container">
+            <header>
+                <h1>JEOPARDY</h1>
+                <p class="subtitle">Hannas Möhippa Edition</p>
+                <button class="reset-btn" onclick="resetGame()">Starta om</button>
+            </header>
+
+            <main class="game-board">
+                <!-- Kategorierna skapas av JavaScript -->
+            </main>
+        </div>
+    </div>
+
+    <!-- Modal för fråga/svar -->
+    <div class="modal" id="questionModal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeModal()">&times;</button>
+            <div class="image-container" id="imageContainer"></div>
+            <div class="question-text" id="questionText"></div>
+            <div class="answer-text" id="answerText" style="display: none;"></div>
+            <div class="modal-buttons">
+                <button class="show-answer-btn" onclick="toggleAnswer()">Visa svar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
