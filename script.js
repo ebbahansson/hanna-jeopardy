@@ -62,9 +62,9 @@ const gameData = {
             questions: [
                 { value: 100, question: "Vad sker här???!!!", answer: "Hanna är på Peace and Love i Borlänge, året är 2011 och de 'hänger med tältgrannarna'.", image: "./Bilder/Hanna/Frågor/grädde.jpg" },
                 { value: 200, question: "UTMANING! Vem skulle tacka nej till något gott i glaset? Inte Hanna i alla fall! Utmana ett annat lag och blanda ihop varsin drink till Hanna – använd det som finns tillgängligt. När kreationerna är klara får Hanna provsmaka och kora vinnaren: godast (eller mest kreativa!) tar hem poängen.", answer: "🍻", image: "./Bilder/Hanna/Frågor/hannaöl.jpg" },
-                { value: 300, question: "Var är Hanna på bilden?", answer: "Way Out West 2012", image: "./Bilder/Hanna/Frågor/wow.jpg" },
-                { value: 400, question: "Vilken låt spelade Hanna mest troligt här?", answer: "Wonderwall?", image: "./Bilder/Hanna/Frågor/gitarr.jpg" },
-                { value: 500, question: "Varför var Hanna utklädd till en pudel?", answer: "Vi skulle på fest", image: "./Bilder/Hanna/Frågor/pudel.jpg"  }
+                { value: 300, question: "Vad sker här???!!!", answer: "Way Out West 2012", image: "./Bilder/Hanna/Frågor/wow.jpg" },
+                { value: 400, question: "Vad sker här???!!!", answer: "Wonderwall?", image: "./Bilder/Hanna/Frågor/gitarr.jpg" },
+                { value: 500, question: "Vad sker här???!!!", answer: "Vi skulle på fest", image: "./Bilder/Hanna/Frågor/pudel.jpg"  }
             ]
         }
     ]
