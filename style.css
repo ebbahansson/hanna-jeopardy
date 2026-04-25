@@ -10,6 +10,12 @@
     font-weight: normal;
 }
 
+@font-face {
+    font-family: 'CodeSaver';
+    src: url('./Fonts/CodeSaver-Regular.otf') format('opentype');
+    font-weight: normal;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -574,6 +580,7 @@ header h1 {
     justify-content: center;
     min-height: 80px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    font-family: 'CodeSaver', Arial, sans-serif;
 }
 
 .category:nth-child(1) .question-box {
@@ -695,6 +702,7 @@ header h1 {
     margin-bottom: 30px;
     text-align: center;
     line-height: 1.4;
+    font-family: 'CodeSaver', Arial, sans-serif;
 }
 
 .answer-text {
