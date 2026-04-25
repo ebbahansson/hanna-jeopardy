@@ -49,7 +49,7 @@ const gameData = {
             questions: [
                 { value: 100, question: "Från WinBLAD till LÖVed. Hanna har utöver växtinspirerande efternamn även gröna fingrar. Vad är det hon försöker odla på denna bilden från 2016? ", answer: "Avokado 🥑", image: "./Bilder/Hanna/Frågor/växt.jpg" },
                 { value: 200, question: "Det sägs att det finns 5 Löve(d) languages. Nämn dem! (Bonus: vilket är Hannas kärleksspråk?)", answer: "Bekräftande ord, kvalitetstid, gåvor, tjänster och fysisk beröring", image: "./Bilder/Hanna/Frågor/hjärta.jpg"},
-                { value: 300, question: "Familjen Löved bor på Odensvägen i Sävedalen – vilket år köpte de huset?", answer: "2024", image: "./Bilder/Hanna/Frågor/savedalen2.jpg" },
+                { value: 300, question: "Familjen Löved bor på Odensvägen i Sävedalen – vilket år köpte de huset?", answer: "2024", image: "./Bilder/Hanna/Frågor/savedalen2.JPG" },
                 { value: 400, question: "UTMANING: Skriv en kärleksdikt från Hanna till Per. Orden löv och ved måste vara med. Ni har 2 minuter!", answer: "👀", image: "./Bilder/Hanna/Frågor/hannaper1.jpg" }
             ]
         },
