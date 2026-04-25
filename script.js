@@ -20,8 +20,8 @@ const gameData = {
             name: "BRÖLLOPSTAJM",
             questions: [
                 { value: 100, question: "Hur många dagar är det kvar till bröllopet?", answer: "70 dagar kvar!", image: "./Bilder/Hanna/Frågor/bröllopspardom.png" },
-                { value: 200, question: "UTMANING: På bröllop vill man ju vara extra fin i håret. Gör en bröllopsuppsättning på Hanna! Tema: EXTRA ALLT. Ni har 3 minuter på er.", answer: "💇‍♀️", image: "./Bilder/Hanna/Frågor/hannalugg.jpg" },
-                { value: 300, question: "Detta är kanske chockerande för er alla men Hanna har faktiskt redan varit gift. Bröllopet skedde i \"målarrummet\" med en man som hette Anton, enligt säkra källor. Men när var detta historiska bröllop?", answer: "Dagis", image: "./Bilder/Hanna/Frågor/grädde.jpg" },
+                { value: 200, question: "UTMANING: På bröllop vill man ju vara extra fin i håret. Gör en bröllopsuppsättning på Hanna! Tema: EXTRA ALLT. Ni har 3 minuter på er.", answer: "💇‍♀️", image: "./Bilder/Hanna/Frågor/grädde.jpg" },
+                { value: 300, question: "Detta är kanske chockerande för er alla men Hanna har faktiskt redan varit gift. Bröllopet skedde i \"målarrummet\" med en man som hette Anton, enligt säkra källor. Men när var detta historiska bröllop?", answer: "Dagis", image: "./Bilder/Hanna/Frågor/hannakollar.jpg" },
                 { value: 400, question: "Att hitta bröllopsklänningar kan vara en djungel. Tyvärr finns bara dessa tre kvar i affären, vilken skulle Hanna ha valt?", answer: "👗", image: "./Bilder/Hanna/Frågor/klanningkombo.png"}
             ]
         },
