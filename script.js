@@ -20,7 +20,7 @@ const gameData = {
             name: "BRÖLLOPSTAJM",
             questions: [
                 { value: 100, question: "Hur många dagar är det kvar till bröllopet?", answer: "70 dagar kvar!", image: "./Bilder/Hanna/Frågor/bröllopspardom.png" },
-                { value: 200, question: "UTMANING: På bröllop vill man ju vara extra fin i håret. Gör en bröllopsuppsättning på Hanna! Tema: EXTRA ALLT. Ni har 3 minuter på er.", answer: "💇‍♀️", image: "./Bilder/Hanna/Frågor/grädde.jpg" },
+                { value: 200, question: "UTMANING: På bröllop vill man ju vara extra fin i håret. Gör en bröllopsuppsättning på Hanna! Tema: EXTRA ALLT.", answer: "💇‍♀️", image: "./Bilder/Hanna/Frågor/grädde.jpg" },
                 { value: 300, question: "Detta är kanske chockerande för er alla men Hanna har faktiskt redan varit gift. Bröllopet skedde i \"målarrummet\" med en man som hette Anton, enligt säkra källor. Men när var detta historiska bröllop?", answer: "Dagis", image: "./Bilder/Hanna/Frågor/hannakollar.jpg" },
                 { value: 400, question: "Att hitta bröllopsklänningar kan vara en djungel. Tyvärr finns bara dessa tre kvar i affären, vilken skulle Hanna ha valt?", answer: "👗", image: "./Bilder/Hanna/Frågor/klanningkombo.png"}
             ]
@@ -40,7 +40,7 @@ const gameData = {
             questions: [
                 { value: 100, question: "Vilken är Hannas mest använda Emoji?", answer: "Hanna får visa!", image: "./Bilder/Hanna/Frågor/mobil.jpg" },
                 { value: 200, question: "Hanna gillar fordon av olika slag – men vilka körkort har hon?", answer: "B, C", image: "./Bilder/Hanna/Frågor/fordon.jpg"},
-                { value: 300, question: "UTMANING: Hanna är ju en riktigt läcker ingenjör. Utmana Hanna och bygg ett så högt torn som möjligt!", answer: "Högst torn vinner poängen!", image: "./Bilder/Hanna/Frågor/hannaingenjör.jpg" },
+                { value: 300, question: "UTMANING: Hanna är ju en riktigt läcker ingenjör. Utmana Hanna och bygg ett så högt torn som möjligt. Ni har tre minuter på er!", answer: "Högst torn vinner poängen!", image: "./Bilder/Hanna/Frågor/hannaingenjör.jpg" },
                 { value: 400, question: "Vad heter Hannas föräldrar? (Bonus: vad heter hennes bröder?)", answer: "Catharina & Jesper! (Tvillingarna heter Johan och Nils)", image: "./Bilder/Hanna/Frågor/familj.png" }
             ]
         },
@@ -50,7 +50,7 @@ const gameData = {
                 { value: 100, question: "Från WinBLAD till LÖVed. Hanna har utöver växtinspirerande efternamn även gröna fingrar. Vad är det hon försöker odla på denna bilden från 2016? ", answer: "Avokado 🥑", image: "./Bilder/Hanna/Frågor/växt.jpg" },
                 { value: 200, question: "Det sägs att det finns 5 Löve(d) languages. Nämn dem! (Bonus: vilket är Hannas kärleksspråk?)", answer: "Bekräftande ord, kvalitetstid, gåvor, tjänster och fysisk beröring", image: "./Bilder/Hanna/Frågor/hjärta.jpg"},
                 { value: 300, question: "Familjen Löved bor på Odensvägen i Sävedalen – vilket år köpte de huset?", answer: "2024", image: "./Bilder/Hanna/Frågor/savedalen2.JPG" },
-                { value: 400, question: "UTMANING: Skriv en kärleksdikt från Hanna till Per. Orden löv och ved måste vara med. Ni har 2 minuter!", answer: "👀", image: "./Bilder/Hanna/Frågor/hannaper1.jpg" }
+                { value: 400, question: "UTMANING: Skriv en kärleksdikt från Hanna till Per. Orden löv och ved måste vara med. Ni har 2 minuter på er!", answer: "👀", image: "./Bilder/Hanna/Frågor/hannaper1.jpg" }
             ]
         },
         {
